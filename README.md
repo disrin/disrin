@@ -17,3 +17,7 @@ You'll find code from my research, analyses I've worked on, and tools I've tried
 ## 🐶 Meet Akiro!
 
 When I'm not working, I'm usually out walking or hiking with Akiro, my favorite adventure buddy. He's the sweetest fellow, with one very serious obsession: his squeaky tennis ball, which he refuses to go anywhere without!
+
+
+<img src="Akiro.jpeg" alt="Akiro" width="280">
+  
